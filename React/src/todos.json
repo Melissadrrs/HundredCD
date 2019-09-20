@@ -1,0 +1,28 @@
+{
+    "todos":[
+        {
+            "title": "task1",
+            "responsible": "Mark",
+            "description": "lorem ",
+            "priority": "baja"
+        },
+        {
+            "title": "task2",
+            "responsible": "lui",
+            "description": "xxx ",
+            "priority": "alta"
+        },
+        {
+            "title": "task3",
+            "responsible": "mini",
+            "description": "xxx ",
+            "priority": "media"
+        },
+        {
+            "title": "task4",
+            "responsible": "sole",
+            "description": "xxx ",
+            "priority": "alta"
+        }
+    ]
+}
